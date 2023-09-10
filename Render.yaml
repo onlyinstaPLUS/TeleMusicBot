@@ -8,7 +8,7 @@ services:
     repo: https://github.com/onlyinstaPLUS/TeleMusicBot # optional
     region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
-    branch: Multi # optional (defaults to master)
+    branch: Pushkar-1 # optional (defaults to master)
     numInstances: 1 # optional (defaults to 1)
     healthCheckPath: /
     envVars:
