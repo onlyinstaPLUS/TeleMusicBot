@@ -11,14 +11,14 @@ services:
     branch: multi # optional (defaults to master)
     numInstances: 1 # optional (defaults to 1)
     healthCheckPath: /
-    envVars:
+      envVars:
         - key: API_ID
          sync: false
         - key: API_HASH
          sync: false
         - key: BOT_TOKEN
          sync: false
-        -key: BOT_NAME
+         -key: BOT_NAME
          sync: false
         -key: ASSISTANT_NAME
          sync: false
