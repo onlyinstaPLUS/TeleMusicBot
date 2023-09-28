@@ -18,45 +18,45 @@ services:
          sync: false
         - key: BOT_TOKEN
          sync: false
-         -key: BOT_NAME
+        - key: BOT_NAME
          sync: false
-        -key: ASSISTANT_NAME
+        - key: ASSISTANT_NAME
          sync: false
-        -key: DURATION_LIMIT
+        - key: DURATION_LIMIT
          sync: false
-        -key: GROUP_SUPPORT
+        - key: GROUP_SUPPORT
          sync: false
-        -key: UPDATES_CHANNEL
+        - key: UPDATES_CHANNEL
          sync: false
-        -key: BOT_USERNAME
+        - key: BOT_USERNAME
          sync: false
-        -key: OWNER_USERNAME
+        - key: OWNER_USERNAME
          sync: false
-        -key: OWNER_ID
+        - key: OWNER_ID
          sync: false
-        -key: OWNER_NAME
+        - key: OWNER_NAME
          sync: false
-        -key: START_PIC
+        - key: START_PIC
          sync: false
-        -key: SESSION_NAME
+        - key: SESSION_NAME
          sync: false
-        -key: ALIVE_IMG
+        - key: ALIVE_IMG
          sync: false
-        -key: SUDO_USERS
+        - key: SUDO_USERS
          sync: false
-        -key: ALIVE NAME
+        - key: ALIVE NAME
          sync: false
-        -key: UPSTREAM_REPO
+        - key: UPSTREAM_REPO
          sync: false
-        -key: COMMAND_PREFIXES
+        - key: COMMAND_PREFIXES
          sync: false
-        -key: IMG_1
+        - key: IMG_1
          sync: false
-        -key: IMG_2
+        - key: IMG_2
          sync: false
-        -key: IMG_3
+        - key: IMG_3
          sync: false
-        -key: IMG_4
+        - key: IMG_4
          sync: false
-        -key: IMG_5
+        - key: IMG_5
          sync: false
