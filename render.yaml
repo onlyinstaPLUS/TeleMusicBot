@@ -48,8 +48,6 @@ services:
          sync: false
         - key: UPSTREAM_REPO
          sync: false
-        - key: COMMAND_PREFIXES
-         sync: false
         - key: IMG_1
          sync: false
         - key: IMG_2
