@@ -1,5 +1,5 @@
 import asyncio
-from pytgcalls import idle
+from pytgcalls import GroupCallFactory
 from Zaid.Database import db
 
 import os
